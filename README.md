@@ -45,7 +45,7 @@ I have a solid foundation in manual testing techniques, focusing on detailed app
 [Czech and Slovak Testing Board ISTQB certified tester](https://drive.google.com/file/d/1A6KpEFX7lOEmr4DrEloqFSJQXnOH6KK6/view?usp=drive_link)
 
 ### AjTyvIT - Women Tester Academy
-[Women tester academz](https://ajtyvit.sk/podujatia/women-tester-academy-18/)
+[Women tester academy](https://ajtyvit.sk/podujatia/women-tester-academy-18/)
 •	Basics of testing 
 •	Exploratory testing / Session-Based Testing 
 •	Knowledge of test case creation techniques 
