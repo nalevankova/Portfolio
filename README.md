@@ -9,34 +9,34 @@ I have a solid foundation in manual testing techniques, focusing on detailed app
 
 ## Skills 
 
-•	Creating test cases
-•	Software testing
-•	Automation testing  basics
-•	Reporting bugs
-•	knowledge of Syllabus ISTQB Foundation level
-•	SQL
-•	Java basics
-•	GIT
-•	HTML/CSS
+* Creating test cases
+*	Software testing
+*	Automation testing  basics
+*	Reporting bugs
+*	knowledge of Syllabus ISTQB Foundation level
+*	SQL
+*	Java basics
+*	GIT
+*	HTML/CSS
 
 
 ## Tools
 
-•	Visual Studio Code 
-•	Jira, Trello 
-•	TestRail
-•	Cypress 
-•	GitHub 
-•	Postman 
-•	Selenium IDE 
-•	phpMyAdmin
-•	xPath Finder 
-•	Xmind, Mind Meister 
-•	Canva
-•	Figma 
-•	Ms Office 365
-•	SAP – MM moduls, SAP4HANA
-•	Matlab Simulink
+*	Visual Studio Code 
+*	Jira, Trello 
+*	TestRail
+*	Cypress 
+*	GitHub 
+*	Postman 
+*	Selenium IDE 
+*	phpMyAdmin
+*	xPath Finder 
+*	Xmind, Mind Meister 
+*	Canva
+*	Figma 
+*	Ms Office 365
+*	SAP – MM moduls, SAP4HANA
+*	Matlab Simulink
 
 ## Certificates and courses
 
@@ -46,17 +46,17 @@ I have a solid foundation in manual testing techniques, focusing on detailed app
 
 ### AjTyvIT - Women Tester Academy
 [Women tester academy](https://ajtyvit.sk/podujatia/women-tester-academy-18/)
-•	Basics of testing 
-•	Exploratory testing / Session-Based Testing 
-•	Knowledge of test case creation techniques 
-•	Testing tools, test management, and reporting (Jira) 
-•	SQL 
-•	Basics of API testing 
-•	Basics of testing HTML, CSS, and JavaScript 
-•	Working with Git
+*	Basics of testing 
+*	Exploratory testing / Session-Based Testing 
+*	Knowledge of test case creation techniques 
+*	Testing tools, test management, and reporting (Jira) 
+*	SQL 
+*	Basics of API testing 
+*	Basics of testing HTML, CSS, and JavaScript 
+*	Working with Git
 
 ### [Automatizácia v Cypress.io v12](https://skillmea.sk/student/online-kurzy/test-automatizacia-v-cypress-io/kapitoly/instalacia-a-struktura-cypress-projektu)
-•	Introduction to Automated Testing in Cypress
+*	Introduction to Automated Testing in Cypress
 
 ### SQL databázy: MySQL a SQLite
 
