@@ -71,12 +71,12 @@ Deutsche Telekom IT Solutions Slovakia
 ## Examples of my work
 
 ### Test cases
-[Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1MxqGW4ooQzRsJOCiWaVorg-zSJ5aFQoz/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
-[Test cases kiwi.com](https://docs.google.com/spreadsheets/d/13I6t1tT1buq52wFUMLby5GCDl-BLSdaU/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
+* [Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1MxqGW4ooQzRsJOCiWaVorg-zSJ5aFQoz/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
+* [Test cases kiwi.com](https://docs.google.com/spreadsheets/d/13I6t1tT1buq52wFUMLby5GCDl-BLSdaU/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
 
 ### Bugs report
-[Bug HC Kosice](https://drive.google.com/file/d/1dOlsEm5JqbKPrauS6IWqTFeBbg3CghBS/view?usp=drive_link)
-[Bug kiwi.com](https://drive.google.com/file/d/155I-YohZ8ZwEFsiolHIkCBTDIpeAH7_H/view?usp=drive_link)
+* [Bug HC Kosice](https://drive.google.com/file/d/1dOlsEm5JqbKPrauS6IWqTFeBbg3CghBS/view?usp=drive_link)
+* [Bug kiwi.com](https://drive.google.com/file/d/155I-YohZ8ZwEFsiolHIkCBTDIpeAH7_H/view?usp=drive_link)
 
 
 
