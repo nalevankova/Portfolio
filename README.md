@@ -17,7 +17,7 @@ I have a solid foundation in manual testing techniques, focusing on detailed app
 *	SQL
 *	Java basics
 *	GIT
-*	HTML/CSS
+*	HTML/CSS/Javascript
 
 
 ## Tools
