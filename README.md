@@ -1,4 +1,7 @@
-# Portfolio
+# 🧪 Software Testing Portfolio
+
+Welcome to my testing portfolio!  
+Here you can find examples of my manual testing work, including test cases and bug reports created during my QA training and self-study projects.
 
 ## 👩‍💻 About Me
 
@@ -11,6 +14,20 @@ I have a solid foundation in manual testing and am continuously building my skil
 Currently, I'm working on hands-on testing projects and expanding my knowledge through various QA and automation courses.
 
 [My Linkedin profile](http://www.linkedin.com/in/jana-nalevankova)
+
+
+## 📄 Test Cases
+
+* [Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1MxqGW4ooQzRsJOCiWaVorg-zSJ5aFQoz/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
+* [Test cases kiwi.com](https://docs.google.com/spreadsheets/d/13I6t1tT1buq52wFUMLby5GCDl-BLSdaU/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
+
+
+## 🐞 Bug Reports
+
+* [Bug HC Kosice](https://drive.google.com/file/d/1dOlsEm5JqbKPrauS6IWqTFeBbg3CghBS/view?usp=drive_link)
+* [Bug kiwi.com](https://drive.google.com/file/d/155I-YohZ8ZwEFsiolHIkCBTDIpeAH7_H/view?usp=drive_link)
+
+Feel free to explore the files and see how I approach quality assurance in real-world scenarios.
 
 ## Skills 
 
@@ -73,15 +90,8 @@ Currently, I'm working on hands-on testing projects and expanding my knowledge t
 ### Operačný systém Linux: Použitie a základy administrácie
 Deutsche Telekom IT Solutions Slovakia
 
-## Examples of my work
 
-### Test cases
-* [Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1MxqGW4ooQzRsJOCiWaVorg-zSJ5aFQoz/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
-* [Test cases kiwi.com](https://docs.google.com/spreadsheets/d/13I6t1tT1buq52wFUMLby5GCDl-BLSdaU/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
 
-### Bugs report
-* [Bug HC Kosice](https://drive.google.com/file/d/1dOlsEm5JqbKPrauS6IWqTFeBbg3CghBS/view?usp=drive_link)
-* [Bug kiwi.com](https://drive.google.com/file/d/155I-YohZ8ZwEFsiolHIkCBTDIpeAH7_H/view?usp=drive_link)
 
 
 
