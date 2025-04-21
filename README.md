@@ -1,9 +1,14 @@
 # Portfolio
 
-## About me 👱‍♀️
+## 👩‍💻 About Me
 
-Hi, my name is Jana. Since the beginning of 2024 I have been studying and practicing to become a software tester. I am detail-oriented, methodical in my approach, and thrive in a collaborative environment where teamwork and communication are valued. I am a reliable and responsible person with excellent time management  skills. One of my key strengths is my ability to think critically and analytically. 
-I have a solid foundation in manual testing techniques, focusing on detailed application testing, identifying bugs, and ensuring that products meet quality standards before being released.
+Hi, I'm Jana – an aspiring Software Tester with a passion for quality and detail. Since early 2024, I’ve been actively studying and practicing manual testing techniques, focusing on detecting bugs, ensuring functionality, and supporting high-quality software releases.
+
+I'm a detail-oriented and analytical thinker, known for being reliable, responsible, and well-organized. I enjoy working in collaborative environments where clear communication and teamwork are key.
+
+I have a solid foundation in manual testing and am continuously building my skills in automation tools like Cypress and Selenium, as well as in technologies such as SQL, HTML/CSS, and Java basics.
+
+Currently, I'm working on hands-on testing projects and expanding my knowledge through various QA and automation courses.
 
 [My Linkedin profile](http://www.linkedin.com/in/jana-nalevankova)
 
