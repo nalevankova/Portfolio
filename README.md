@@ -18,14 +18,15 @@ Currently, I'm working on hands-on testing projects and expanding my knowledge t
 
 ## 📄 Test Cases
 
-* [Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1MxqGW4ooQzRsJOCiWaVorg-zSJ5aFQoz/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
-* [Test cases kiwi.com](https://docs.google.com/spreadsheets/d/13I6t1tT1buq52wFUMLby5GCDl-BLSdaU/edit?usp=drive_link&ouid=107866234308135780521&rtpof=true&sd=true)
-
+* [Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1HPA9vGRg8q2KfdgXG3U3ZziNYurqKDXd/edit?gid=894211328#gid=894211328)
+* [Test cases kiwi.com](https://docs.google.com/spreadsheets/d/1xua8feK6DrpOcOhWWHenLi_KkfZ-6Pe1/edit?gid=2069498808#gid=2069498808)
+* [Test rail kiwi.com](https://drive.google.com/drive/folders/1W9uLrzHktzr19I413Ekh1zVHTfeXCv5h)
+  
 
 ## 🐞 Bug Reports
 
 * [Bug HC Kosice](https://drive.google.com/file/d/1dOlsEm5JqbKPrauS6IWqTFeBbg3CghBS/view?usp=drive_link)
-* [Bug kiwi.com](https://drive.google.com/file/d/155I-YohZ8ZwEFsiolHIkCBTDIpeAH7_H/view?usp=drive_link)
+* [Bug kiwi.com](https://drive.google.com/drive/folders/1W9uLrzHktzr19I413Ekh1zVHTfeXCv5h)
 
 Feel free to explore the files and see how I approach quality assurance in real-world scenarios.
 
@@ -76,6 +77,13 @@ Feel free to explore the files and see how I approach quality assurance in real-
 *	Basics of API testing 
 *	Basics of testing HTML, CSS, and JavaScript 
 *	Working with Git
+
+
+### Jumpstart - Ženský algoritmus
+* principles of modern design and use tools to create designs (UX/UI)
+* basics of HTML, CSS, and simple programming
+* working with databases, data analysis and visualizations
+* basic of Git, REST API
 
 ### [Automatizácia v Cypress.io v12](https://skillmea.sk/student/online-kurzy/test-automatizacia-v-cypress-io/kapitoly/instalacia-a-struktura-cypress-projektu)
 *	Introduction to Automated Testing in Cypress
