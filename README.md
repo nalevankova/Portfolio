@@ -18,7 +18,7 @@ Currently, I'm working on hands-on testing projects and expanding my knowledge t
 
 ## 📄 Test Cases
 
-* [Test cases HC Kosice](#https://docs.google.com/spreadsheets/d/1HPA9vGRg8q2KfdgXG3U3ZziNYurqKDXd/edit?gid=894211328#gid=894211328)
+* [Test cases HC Kosice](https://docs.google.com/spreadsheets/d/1HPA9vGRg8q2KfdgXG3U3ZziNYurqKDXd/edit?gid=894211328#gid=894211328)
 * [Test cases kiwi.com](https://docs.google.com/spreadsheets/d/1xua8feK6DrpOcOhWWHenLi_KkfZ-6Pe1/edit?gid=2069498808#gid=2069498808)
 * [Test rail kiwi.com](https://drive.google.com/file/d/1IpBjwXjtvnlWszw4Jh0ZfD1MGcsRLBei/view?usp=sharing)
   
